@@ -11,4 +11,4 @@ The purpose of this project is to take an existing webpage and refactor the code
 [Horiseon Solution Services] (https://mikak02.github.io/Week1Challenge/)
 
 ## Screenshot
-![Screenshot of website](assets/images/screenshot.png)
+![Screenshot of website](./Develop/assets/images/Screenshot.png)
